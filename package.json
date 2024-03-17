@@ -1,25 +1,24 @@
 {
   "dependencies": {
-    "adminis": "^1.0.0",
-    "js-database-connection": "^1.0.5",
-    "js-server-websocket": "^1.0.3"
+    "datacolletct": "^1.0.0",
+    "express": "^4.18.3",
+    "js-database-connection": "^1.0.5"
   },
-  "name": "datacolletct",
+  "name": "adminis",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rialy19/datacollect-js.git"
+    "url": "https://github.com/rialy19/adminis-js.git"
   },
   "author": "rialy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rialy19/datacollect-js/issues"
+    "url": "https://github.com/rialy19/adminis-js/issues"
   },
-  "homepage": "https://github.com/rialy19/datacollect-js#readme",
+  "homepage": "https://github.com/rialy19/adminis-js#readme",
   "description": ""
 }
